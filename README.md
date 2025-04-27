@@ -17,6 +17,7 @@ The extension allows users to automate the process of collecting channel points,
 The extension has a simple interface with a toggle button and status indicator, making it user friendly and easy to understand.
 
 ## Setup
+### (For Chromium browsers: Chrome, Yandex.Browser, Opera, Edge and other)
 ### 1. Preparation:
 **Make sure you have a project folder where:**
 - At the root is `manifest.json`
@@ -40,8 +41,3 @@ Choose the folder where your project is located with `manifest.json` in the root
 The extension will appear in the list of installed extensions.
 You will see the icon, name, version.
 In case of errors (for example, incorrect `manifest.json`) - Chrome will immediately show you what's wrong.
-
-If everything is ok - the extension is already working!
-- You will see your extension icon in the browser bar.
-- You can click on the icon - your popup.html will appear.
-- You can open Twitch - and the scripts will start working automatically on the site.
