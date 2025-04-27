@@ -2,12 +2,14 @@
 This is a browser extension that automatically collects bonus channel points on the Twitch.tv platform. 
 The extension allows users to automate the process of collecting channel points, which usually requires manual clicking while watching streams.
 
+### If you find a bug, message me on [Telegram](https://t.me/GSilver27).
+
 ## Functionality
 - Automatic collection of channel points on Twitch.tv
 - Simple user interface with the ability to enable/disable the auto-collection function
 - Works only on Twitch.tv pages
 - Visual display of current status (enabled/disabled)
-- 
+  
 ## Technical details
 - JavaScript for basic functionality
 - Chrome Extension API to interact with the browser
@@ -43,5 +45,3 @@ If everything is ok - the extension is already working!
 - You will see your extension icon in the browser bar.
 - You can click on the icon - your popup.html will appear.
 - You can open Twitch - and the scripts will start working automatically on the site.
-
-## If you find a bug, message me on [Telegram](https://t.me/GSilver27).
