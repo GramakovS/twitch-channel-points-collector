@@ -46,3 +46,5 @@ In case of errors (for example, incorrect `manifest.json`) - Chrome will immedia
  - You will see your extension icon in the browser bar.
  - You can click on the icon - your popup.html will appear.
  - You can open Twitch - and the scripts will start working automatically on the site.
+
+#### ❗️ Note: If at the time of installing the extension you were watching some broadcast on Twitch, you will need to reload your browser for it to work correctly
