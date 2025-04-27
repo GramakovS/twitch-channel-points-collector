@@ -41,3 +41,8 @@ Choose the folder where your project is located with `manifest.json` in the root
 The extension will appear in the list of installed extensions.
 You will see the icon, name, version.
 In case of errors (for example, incorrect `manifest.json`) - Chrome will immediately show you what's wrong.
+
+ If everything is ok - the extension is already working!
+ - You will see your extension icon in the browser bar.
+ - You can click on the icon - your popup.html will appear.
+ - You can open Twitch - and the scripts will start working automatically on the site.
